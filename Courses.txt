@@ -1,0 +1,6 @@
+
+                  56             CIS-318                 DSA                4500
+                 853             PAM-378                DCCN                3000
+                 784             CIS-430                 COA                4000
+                 452             PAM-785                  LA                4000
+                 325             CIS-418            Calculus                4500
